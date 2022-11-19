@@ -1,4 +1,4 @@
-<h1 align="center">привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1> 
+<h1 align="center">\(≧▽≦)/ 
 
 <p align="left">
     <p ><img src="https://komarev.com/ghpvc/?username=NetworkDeus&label=ᴠɪꜱɪᴛꜱ%20&color=0e75b6&style=flat" alt="NetworkDeus"/></p>
